@@ -21,7 +21,7 @@ Each repository here holds the build code and documentation for a dataset archiv
 | Global Power-Plant Climate Exposure Screening Index (CESI) | [power-plant-climate-exposure-index](https://github.com/research-inzonex/power-plant-climate-exposure-index) | [10.5281/zenodo.22172589](https://doi.org/10.5281/zenodo.22172589) |
 | US CCGT Operational Benchmark | [us-ccgt-operational-benchmark](https://github.com/research-inzonex/us-ccgt-operational-benchmark) | [10.5281/zenodo.22172560](https://doi.org/10.5281/zenodo.22172560) |
 | Global CCGT & HRSG Fleet Inventory | [global-ccgt-hrsg-fleet-inventory](https://github.com/research-inzonex/global-ccgt-hrsg-fleet-inventory) | [10.5281/zenodo.20728927](https://doi.org/10.5281/zenodo.20728927) |
-| Industrial Surface Heat-Loss & Touch-Safety Reference (ASTM C680) | [industrial-surface-heat-loss-reference](https://github.com/research-inzonex/industrial-surface-heat-loss-reference) | [10.5281/zenodo.20787407](https://doi.org/10.5281/zenodo.20787407) |
+| Industrial Surface Heat-Loss & Touch-Safety Reference | [industrial-surface-heat-loss-reference](https://github.com/research-inzonex/industrial-surface-heat-loss-reference) | [10.5281/zenodo.20787407](https://doi.org/10.5281/zenodo.20787407) |
 | Surface temperature under modular removable insulation (steam-boiler case study) | [boiler-surface-temperature-case-study](https://github.com/research-inzonex/boiler-surface-temperature-case-study) | [10.5281/zenodo.21810802](https://doi.org/10.5281/zenodo.21810802) |
 
 Datasets are released under CC BY 4.0. Cite the Zenodo DOI, not this repository.
